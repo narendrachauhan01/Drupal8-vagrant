@@ -1,8 +1,8 @@
-#./logs
-#./mysql
-#mysql
-#mysql-db
-#./mysql-db
-#home
-#.docker
-#./.docker
+./logs
+./mysql
+mysql
+mysql-db
+./mysql-db
+home
+.docker
+./.docker
